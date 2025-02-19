@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @simonstolisic
 
-- 🌱 I’m currently learning ????
+- 🌱 I’m currently
+-   learning Java, Go
+-   re-learning C++
 
 
 <!---
