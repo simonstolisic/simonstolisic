@@ -1,8 +1,10 @@
-Greetings good people, I’m @simonstolisic
+I’m @simonstolisic, a student at the Faculty of Sciences in Novi Sad, Serbia.
 
-Interested in cybersec.
+Interested in cybersec, social networks, system programming and currently pretty much everything except Machine learning, AI and model based software development.
 
-In an ideal world I'll be applying my knowledge to fight for justice ( and maybe end up in jail for doing so, depends on how the world progresses).
+
+
+Police custody/jail counter: 1
 
 <!---
 simonstolisic/simonstolisic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
